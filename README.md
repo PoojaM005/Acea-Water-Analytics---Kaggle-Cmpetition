@@ -1,4 +1,3 @@
-# Acea-Water-Analytics---Kaggle-Cmpetition
 # Acea-Water-Analytics---Kaggle-Competition
 In this competition, Acea Group focused on the water sector to preserve water bodies by forecasting the water level. Each dataset has a different kind of waterbody with its unique behavior and characteristics. Available Datasets are:
 
